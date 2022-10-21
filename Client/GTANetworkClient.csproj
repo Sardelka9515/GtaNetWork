@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GTANetwork</RootNamespace>
     <AssemblyName>GTANetwork</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
     <NuGetPackageImportStamp>
@@ -96,7 +96,7 @@
     </Reference>
     <Reference Include="NativeUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\NativeUI\bin\Release\NativeUI.dll</HintPath>
+      <HintPath>..\libs\NativeUI.dll</HintPath>
     </Reference>
     <Reference Include="NAudio">
       <HintPath>..\libs\NAudio.dll</HintPath>
@@ -110,7 +110,7 @@
     </Reference>
     <Reference Include="ScriptHookVDotNet, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Shv.NET\bin\ScriptHookVDotNet.dll</HintPath>
+      <HintPath>..\libs\ScriptHookVDotNet.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX, Version=2.6.3.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
